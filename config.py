@@ -10,27 +10,29 @@ class AgentConfig(BaseSettings):
     """Configuration settings for the Career Agent"""
     
     # AI Provider Settings
-    openai_api_key: Optional[str] = Field(default=None, env="OPENAI_API_KEY")
-    anthropic_api_key: Optional[str] = Field(default=None, env="ANTHROPIC_API_KEY")
+    openai_api_key: Optional[str] = Field(default=None)
+    anthropic_api_key: Optional[str] = Field(default=None)
     
     # Default AI provider (openai or anthropic)
-    default_provider: str = Field(default="openai", env="DEFAULT_AI_PROVIDER")
+    default_provider: str = Field(default="openai")
     
     # Model settings
-    openai_model: str = Field(default="gpt-4", env="OPENAI_MODEL")
-    anthropic_model: str = Field(default="claude-3-sonnet-20240229", env="ANTHROPIC_MODEL")
+    openai_model: str = Field(default="gpt-4")
+    anthropic_model: str = Field(default="claude-3-sonnet-20240229")
     
     # Agent settings
-    max_tokens: int = Field(default=4000, env="MAX_TOKENS")
-    temperature: float = Field(default=0.7, env="TEMPERATURE")
+    max_tokens: int = Field(default=4000)
+    temperature: float = Field(default=0.7)
     
     # File paths
-    resume_path: str = Field(default="Ian Alloway_CV.pdf", env="RESUME_PATH")
-    output_dir: str = Field(default="output", env="OUTPUT_DIR")
+    resume_path: str = Field(default="Ian Alloway_CV.pdf")
+    output_dir: str = Field(default="output")
     
-    class Config:
-        env_file = ".env"
-        case_sensitive = False
+    model_config = {
+        "env_file": ".env",
+        "case_sensitive": False,
+        "extra": "ignore"
+    }
 
 # Global config instance
 config = AgentConfig()
