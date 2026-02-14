@@ -1,4 +1,22 @@
-# 🚀 Career Agent
+# Ian Alloway - Resume & Career Tools
+
+**Data Scientist | AI Specialist | Blockchain Analyst**
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ianalloway/Resume/raw/main/Ian%20Alloway_CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ianalloway.xyz-00D100?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ianalloway.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianit)
+
+---
+
+## About Me
+
+I'm pursuing a Masters in Artificial Intelligence at the University of South Florida while running Alloway LLC, where I specialize in AI-driven cybersecurity solutions and blockchain analytics. I transform complex datasets into actionable insights, bridging cutting-edge AI research with practical business applications.
+
+**Key Skills:** Python, Machine Learning, TensorFlow, Deep Learning, SQL, Data Analytics, Blockchain, Power BI, Tableau
+
+---
+
+## Career Agent Tool
 
 An AI-powered career assistance tool that helps you optimize your resume, prepare for interviews, get career advice, and accelerate your professional growth. Built with modular architecture supporting multiple AI providers (OpenAI and Anthropic).
 
