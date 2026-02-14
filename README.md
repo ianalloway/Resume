@@ -12,7 +12,13 @@
 
 I'm pursuing a Masters in Artificial Intelligence at the University of South Florida while running Alloway LLC, where I specialize in AI-driven cybersecurity solutions and blockchain analytics. I transform complex datasets into actionable insights, bridging cutting-edge AI research with practical business applications.
 
-**Key Skills:** Python, Machine Learning, TensorFlow, Deep Learning, SQL, Data Analytics, Blockchain, Power BI, Tableau
+**Key Skills:** Python, Machine Learning, TensorFlow, PyTorch, Deep Learning, NLP, SQL, Data Analytics, Blockchain, Power BI, Tableau
+
+## Education
+
+- **M.S. Artificial Intelligence** - University of South Florida (2024 - Present)
+- **B.S. Information Science, Data Science and Analytics** - University of South Florida
+- **A.S.** - Hillsborough Community College, Tampa
 
 ---
 
