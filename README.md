@@ -21,6 +21,7 @@ I'm pursuing a Masters in Artificial Intelligence at the University of South Flo
 - **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw
 - **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA prediction model with XGBoost and Kelly Criterion value betting
 - **[Drone AI](https://github.com/ianalloway/ai-drone-auto-vehicle)** - Autonomous vehicle intelligence platform with computer vision, path planning, and MAVLink integration
+- **[Crypto Portfolio CLI](https://github.com/ianalloway/crypto-portfolio-cli)** - Terminal-based cryptocurrency portfolio tracker with live prices, charts, and alerts via CoinGecko API
 
 ## Certifications & Training
 
