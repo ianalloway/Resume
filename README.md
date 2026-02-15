@@ -29,6 +29,11 @@ I'm pursuing a Masters in Artificial Intelligence at the University of South Flo
 - **AWS Certified Cloud Practitioner** - Amazon Web Services
 - **Blockchain Fundamentals** - UC Berkeley Extension
 
+## Publications & Research
+
+- **"Predictive Modeling for Sports Betting Markets"** - Applied machine learning techniques to identify value in NBA betting lines
+- **"Autonomous Navigation in Urban Environments"** - Research on computer vision and path planning for autonomous vehicles
+
 ## Education
 
 - **M.S. Artificial Intelligence** - University of South Florida (2024 - Present)
