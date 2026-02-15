@@ -14,6 +14,12 @@ I'm pursuing a Masters in Artificial Intelligence at the University of South Flo
 
 **Key Skills:** Python, Machine Learning, TensorFlow, PyTorch, Deep Learning, NLP, SQL, Data Analytics, Blockchain, Power BI, Tableau
 
+## Open Source Contributions
+
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 194k+ star AI agent framework
+- **[ClawHub Skills](https://clawhub.ai)** - Published AI agent skills: sports-odds, nft-tracker, data-viz, screenshot-annotator
+- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw
+
 ## Education
 
 - **M.S. Artificial Intelligence** - University of South Florida (2024 - Present)
