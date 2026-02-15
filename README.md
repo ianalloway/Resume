@@ -22,6 +22,13 @@ I'm pursuing a Masters in Artificial Intelligence at the University of South Flo
 - **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA prediction model with XGBoost and Kelly Criterion value betting
 - **[Drone AI](https://github.com/ianalloway/ai-drone-auto-vehicle)** - Autonomous vehicle intelligence platform with computer vision, path planning, and MAVLink integration
 
+## Certifications & Training
+
+- **Deep Learning Specialization** - Coursera (Andrew Ng)
+- **Machine Learning Engineering** - Google Cloud
+- **AWS Certified Cloud Practitioner** - Amazon Web Services
+- **Blockchain Fundamentals** - UC Berkeley Extension
+
 ## Education
 
 - **M.S. Artificial Intelligence** - University of South Florida (2024 - Present)
