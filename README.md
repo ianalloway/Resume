@@ -19,6 +19,7 @@ I'm pursuing a Masters in Artificial Intelligence at the University of South Flo
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 194k+ star AI agent framework
 - **[ClawHub Skills](https://clawhub.ai)** - Published AI agent skills: sports-odds, nft-tracker, data-viz, screenshot-annotator
 - **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw
+- **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA prediction model with XGBoost and Kelly Criterion value betting
 
 ## Education
 
