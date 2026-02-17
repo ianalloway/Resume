@@ -1,6 +1,6 @@
 # Ian Alloway - Resume & Career Tools
 
-**Data Scientist | AI Specialist | Blockchain Analyst**
+**ML Engineer | Data Scientist | AI Builder**
 
 [![Download Resume](https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ianalloway/Resume/raw/main/Ian%20Alloway_CV.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianalloway.xyz-00D100?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ianalloway.xyz)
@@ -10,37 +10,42 @@
 
 ## About Me
 
-I'm pursuing a Masters in Artificial Intelligence at the University of South Florida while running Alloway LLC, where I specialize in AI-driven cybersecurity solutions and blockchain analytics. I transform complex datasets into actionable insights, bridging cutting-edge AI research with practical business applications.
+Machine Learning Engineer graduating with a B.S. in Data Science from USF (May 2026), starting M.S. in AI (Fall 2026). I build production ML systems - from XGBoost prediction models deployed on HuggingFace to YOLOv8 computer vision pipelines for autonomous drones. Founder of Alloway LLC, where I've delivered AI analytics solutions that reduced fraud incidents by 30% and improved client operational efficiency by 40%. Active open source contributor to OpenClaw (190K+ stars).
 
-**Key Skills:** Python, Machine Learning, TensorFlow, PyTorch, Deep Learning, NLP, SQL, Data Analytics, Blockchain, Power BI, Tableau
+**Key Skills:** Python, SQL, R, TensorFlow, PyTorch, Scikit-learn, XGBoost, YOLOv8, NLP, Deep Learning, Computer Vision, Tableau, Power BI, Docker, AWS
 
 ## Open Source Contributions
 
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 194k+ star AI agent framework
-- **[ClawHub Skills](https://clawhub.ai)** - Published AI agent skills: sports-odds, nft-tracker, data-viz, screenshot-annotator
-- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw
-- **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA prediction model with XGBoost and Kelly Criterion value betting
-- **[Drone AI](https://github.com/ianalloway/ai-drone-auto-vehicle)** - Autonomous vehicle intelligence platform with computer vision, path planning, and MAVLink integration
-- **[Crypto Portfolio CLI](https://github.com/ianalloway/crypto-portfolio-cli)** - Terminal-based cryptocurrency portfolio tracker with live prices, charts, and alerts via CoinGecko API
-- **[Job Fit Analyzer](https://clawdbot-setup-app-haw39wkx.devinapps.com)** - NLP-powered tool that analyzes job descriptions against my profile to show skill matches, strengths, and recommendations
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 190K+ star AI agent framework
+- **[ClawHub Skills](https://clawhub.ai)** - Published 4 AI agent skills: sports-odds, nft-tracker, data-viz, screenshot-annotator
+- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Open-source financial intelligence assistant built on OpenClaw
 
-## Certifications & Training
+## Projects
+
+- **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - XGBoost model trained on 5 seasons of NBA data with Kelly Criterion value bet detection. Live on HuggingFace.
+- **[Drone AI](https://github.com/ianalloway/ai-drone-auto-vehicle)** - Autonomous navigation: YOLOv8 obstacle detection, A*/RRT* path planning, behavior trees, MAVLink communication.
+- **[Job Fit Analyzer](https://clawdbot-setup-app-haw39wkx.devinapps.com)** - Full-stack NLP app (React + FastAPI) analyzing job descriptions against candidate profiles using semantic similarity.
+- **[AI Advantage Sports](https://aiadvantagesports.com)** - Production sports betting platform with ML predictions and real-time value bet alerts.
+- **[Crypto Portfolio CLI](https://github.com/ianalloway/crypto-portfolio-cli)** - Terminal portfolio tracker with live CoinGecko prices, Rich charts, and alerts.
+- **[AI Portfolio Analyzer](https://github.com/ianalloway/ai-portfolio-analyzer)** - AI-powered CLI for portfolio analysis with diversification recommendations.
+
+## Certifications
 
 - **Deep Learning Specialization** - Coursera (Andrew Ng)
 - **Machine Learning Engineering** - Google Cloud
 - **AWS Certified Cloud Practitioner** - Amazon Web Services
 - **Blockchain Fundamentals** - UC Berkeley Extension
-
-## Publications & Research
-
-- **"Predictive Modeling for Sports Betting Markets"** - Applied machine learning techniques to identify value in NBA betting lines
-- **"Autonomous Navigation in Urban Environments"** - Research on computer vision and path planning for autonomous vehicles
+- **Oracle Database SQL Certified Associate** - Oracle
+- **Tableau Desktop Certified Professional** - Tableau / Salesforce
+- **SQL Specialist Certification** - Microsoft
+- **Microsoft Office Specialist: Excel** - Microsoft
 
 ## Education
 
-- **M.S. Artificial Intelligence** - University of South Florida (2024 - Present)
-- **B.S. Information Science, Data Science and Analytics** - University of South Florida
-- **A.S.** - Hillsborough Community College, Tampa
+- **B.S. Data Science and Analytics** - University of South Florida (Expected May 2026)
+- **M.S. Artificial Intelligence** - University of South Florida (Starting Fall 2026)
+- **Diploma, Hospitality Management** - Commonwealth University (2020-2022)
+- **A.A.** - Hillsborough Community College, Tampa
 
 ---
 
