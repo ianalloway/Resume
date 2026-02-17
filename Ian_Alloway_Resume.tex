@@ -1,0 +1,161 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=0.55in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{xcolor}
+\usepackage{tabularx}
+
+\definecolor{linkblue}{HTML}{0969DA}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkblue,
+    urlcolor=linkblue,
+    pdfborder={0 0 0}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\titleformat{\section}{\large\bfseries\scshape}{}{0pt}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+\titleformat{\subsection}[runin]{\bfseries}{}{0pt}{}
+\titlespacing{\subsection}{0pt}{4pt}{4pt}
+
+\newcommand{\resumeitem}[1]{\item[\textbullet] #1}
+
+\begin{document}
+
+% ===== HEADER =====
+\begin{center}
+    {\LARGE\bfseries Ian Alloway} \\[4pt]
+    727-470-8666 \,$\vert$\,
+    \href{mailto:ian@allowayllc.com}{ian@allowayllc.com} \,$\vert$\,
+    \href{https://linkedin.com/in/ianit}{linkedin.com/in/ianit} \,$\vert$\,
+    \href{https://github.com/ianalloway}{github.com/ianalloway} \\[2pt]
+    \href{https://ianalloway.xyz}{ianalloway.xyz} \,$\vert$\,
+    \href{https://allowayai.substack.com}{allowayai.substack.com} \,$\vert$\,
+    Fairmont, WV (Remote-Friendly)
+\end{center}
+
+\vspace{-2pt}
+
+% ===== SUMMARY =====
+\section{Summary}
+Data Scientist and AI Engineer pursuing an MS in Artificial Intelligence at the University of South Florida. Builds production ML systems, blockchain analytics pipelines, and AI-powered products. Open-source contributor to OpenClaw (194k+ stars). Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, and cybersecurity.
+
+% ===== TECHNICAL SKILLS =====
+\section{Technical Skills}
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\textbf{Languages:} & Python, R, SQL, TypeScript, JavaScript, Solidity \\
+\textbf{ML / AI:} & TensorFlow, PyTorch, Scikit-learn, XGBoost, Deep Learning, NLP, Computer Vision (YOLOv8) \\
+\textbf{Data:} & Pandas, NumPy, Power BI, Tableau, Statistical Analysis, Time Series Forecasting \\
+\textbf{Web3:} & Ethereum, Smart Contracts, Blockchain Analytics, Web3.js, Ethers.js \\
+\textbf{Infrastructure:} & Docker, Git, AWS, PostgreSQL, Redis, React, Node.js, FastAPI, Tailwind CSS \\
+\textbf{Autonomy:} & MAVLink, PX4, ArduPilot, Path Planning (A*, RRT*), Sensor Fusion, EKF \\
+\end{tabularx}
+
+% ===== EXPERIENCE =====
+\section{Experience}
+
+\textbf{Founder \& Data Consultant} \hfill July 2023 -- Present \\
+\textit{Alloway LLC} \hfill Morgantown, WV
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Founded a data consultancy delivering AI-powered solutions to e-commerce and enterprise clients}
+    \resumeitem{Developed and deployed ML models to automate decision-making, improving client operational efficiency by 40\%}
+    \resumeitem{Built real-time dashboards using Tableau and Power BI for data tracking across marketing, logistics, and customer service}
+    \resumeitem{Implemented cybersecurity audits and threat detection protocols, reducing client risk exposure}
+    \resumeitem{Managed full project lifecycles from requirements gathering through deployment and client training}
+\end{itemize}
+
+\vspace{4pt}
+
+\textbf{Data Auditor / AI Engineer} \hfill Jan 2020 -- Dec 2024 \\
+\textit{Omniichain} \hfill Remote
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Extracted and normalized multi-chain blockchain data from Ethereum, Solana, and Polkadot networks}
+    \resumeitem{Engineered AI-based anomaly detection tools, reducing fraud incidents by 30\%}
+    \resumeitem{Built interactive dashboards to visualize token flow, market movements, and transactional health}
+    \resumeitem{Conducted performance benchmarking of smart contract operations using Python and SQL}
+    \resumeitem{Published technical reports and dashboards used by investors and auditors for blockchain system reviews}
+\end{itemize}
+
+\vspace{4pt}
+
+\textbf{Sales \& Purchasing Manager} \hfill Sept 2018 -- Aug 2023 \\
+\textit{IT Parts and Spares Ltd.} \hfill Miami/Fort Lauderdale, FL
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Led procurement operations with international vendors, optimizing logistics and reducing costs by 15\%}
+    \resumeitem{Maintained inventory systems ensuring data accuracy; collaborated with IT teams on procurement automation}
+    \resumeitem{Monitored market trends to forecast demand and negotiate pricing, managing HP, IBM, Lenovo, and Dell contracts}
+\end{itemize}
+
+\vspace{4pt}
+
+\textbf{Task Force Manager} \hfill Aug 2020 -- Sept 2023 \\
+\textit{Hilton Hotels} \hfill Tampa, FL
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Directed operational improvements across multiple properties, achieving measurable guest satisfaction increases (up to 20\%)}
+    \resumeitem{Managed property P\&L, budgets, and vendor relations; provided GM-level leadership coverage during transitions}
+\end{itemize}
+
+% ===== PROJECTS =====
+\section{Projects}
+
+\textbf{\href{https://aiadvantagesports.com}{AI Advantage Sports}} --- Sports betting platform with integrated XGBoost ML predictions, Kelly Criterion bet sizing, and value bet detection for NBA games. Model achieved 68\% prediction accuracy. \textit{(React, Python, XGBoost)}
+
+\vspace{3pt}
+
+\textbf{\href{https://github.com/ianalloway/Money-maker-bot}{Money Maker Bot}} --- Financial intelligence assistant built on OpenClaw for sports odds analysis, NFT price tracking, and portfolio visualization. Published custom skills to ClawHub marketplace. \textit{(TypeScript, OpenClaw)}
+
+\vspace{3pt}
+
+\textbf{\href{https://github.com/ianalloway/ai-drone-auto-vehicle}{Drone AI}} --- Autonomous vehicle intelligence platform with YOLOv8 computer vision, A*/RRT* path planning, behavior trees, and MAVLink drone integration. \textit{(Python, PyTorch, MAVLink)}
+
+\vspace{3pt}
+
+\textbf{\href{https://huggingface.co/spaces/ianalloway/sports-betting-ml}{Sports Betting ML}} --- NBA game prediction model deployed on HuggingFace. XGBoost classifier with feature engineering on player stats, team metrics, and historical matchups. \textit{(Python, XGBoost, Streamlit)}
+
+\vspace{3pt}
+
+\textbf{\href{https://mutantintelligence.com}{Mutant Intelligence}} --- Web3 application transforming Mutant Ape Yacht Club NFTs into AI assistants with traits-based personality. \textit{(React, Ethereum, Web3.js)}
+
+% ===== OPEN SOURCE =====
+\section{Open Source}
+\textbf{\href{https://github.com/openclaw/openclaw}{OpenClaw}} --- Active contributor to the 194k+ star AI agent framework. Bug fixes, skill system improvements, and published 4 skills to \href{https://clawhub.ai}{ClawHub}: sports-odds, nft-tracker, data-viz, screenshot-annotator.
+
+% ===== EDUCATION =====
+\section{Education}
+
+\textbf{M.S. Artificial Intelligence} \hfill 2024 -- Present \\
+\textit{University of South Florida}
+
+\vspace{3pt}
+
+\textbf{B.S. Information Science, Data Science and Analytics} \hfill 2023 -- 2025 \\
+\textit{University of South Florida}
+
+\vspace{3pt}
+
+\textbf{Diploma, Hospitality Management} \hfill 2020 -- 2022 \\
+\textit{Commonwealth University}
+
+% ===== CERTIFICATIONS =====
+\section{Certifications}
+Deep Learning Specialization (Andrew Ng, Coursera) \,$\vert$\,
+Machine Learning Engineering (Google Cloud) \,$\vert$\,
+AWS Certified Cloud Practitioner \,$\vert$\,
+Blockchain Fundamentals (UC Berkeley) \,$\vert$\,
+Oracle Database SQL Certified Associate \,$\vert$\,
+Tableau Desktop Certified Professional
+
+% ===== WRITING =====
+\section{Writing}
+\textbf{\href{https://allowayai.substack.com}{Alloway AI (Substack)}} --- Technical writing on ML model development, AI agent architecture, and sports analytics. Recent posts: ``How I Built an ML Model That Beats Vegas (Sometimes)'' and ``Building a Job Fit Analyzer with NLP and React.''
+
+\end{document}
