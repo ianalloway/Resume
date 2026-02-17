@@ -1,8 +1,9 @@
 # Ian Alloway - Resume & Career Tools
 
-**ML Engineer | Data Scientist | AI Builder**
+**AI/ML Engineer | Data Scientist | Business Intelligence Specialist**
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ianalloway/Resume/raw/main/Ian%20Alloway_CV.pdf)
+[![Download Resume (PDF)](https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ianalloway/Resume/raw/main/Ian_Alloway_Resume_CV.pdf)
+[![Download Resume (DOCX)](https://img.shields.io/badge/Download-Resume%20(DOCX)-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/ianalloway/Resume/raw/main/Ian_Alloway_Resume_CV.docx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianalloway.xyz-00D100?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ianalloway.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianit)
 
@@ -10,22 +11,23 @@
 
 ## About Me
 
-Machine Learning Engineer graduating with a B.S. in Data Science from USF (May 2026), starting M.S. in AI (Fall 2026). I build production ML systems - from XGBoost prediction models deployed on HuggingFace to YOLOv8 computer vision pipelines for autonomous drones. Founder of Alloway LLC, where I've delivered AI analytics solutions that reduced fraud incidents by 30% and improved client operational efficiency by 40%. Active open source contributor to OpenClaw (190K+ stars).
+Data Scientist and AI Engineer pursuing an MS in Artificial Intelligence at the University of South Florida. Builds production ML systems, blockchain analytics pipelines, and AI-powered products. Open-source contributor to OpenClaw (194k+ stars). Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, and cybersecurity. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
 
-**Key Skills:** Python, SQL, R, TensorFlow, PyTorch, Scikit-learn, XGBoost, YOLOv8, NLP, Deep Learning, Computer Vision, Tableau, Power BI, Docker, AWS
+**Key Skills:** Python, TensorFlow, PyTorch, Scikit-learn, XGBoost, Deep Learning, NLP, Computer Vision, YOLOv8, SQL, PostgreSQL, Pandas, NumPy, Tableau, Power BI, Docker, AWS, React, TypeScript, FastAPI, Ethereum, Solidity, MAVLink
 
 ## Open Source Contributions
 
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 190K+ star AI agent framework
-- **[ClawHub Skills](https://clawhub.ai)** - Published 4 AI agent skills: sports-odds, nft-tracker, data-viz, screenshot-annotator
-- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Open-source financial intelligence assistant built on OpenClaw
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 194k+ star AI agent framework. Bug fixes, skill system improvements, and published 4 skills to ClawHub: sports-odds, nft-tracker, data-viz, screenshot-annotator
+- **[ClawHub Skills](https://clawhub.ai)** - Published 4 AI agent skills to the marketplace
+- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw for sports odds analysis, NFT price tracking, and portfolio visualization
 
 ## Projects
 
-- **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - XGBoost model trained on 5 seasons of NBA data with Kelly Criterion value bet detection. Live on HuggingFace.
-- **[Drone AI](https://github.com/ianalloway/ai-drone-auto-vehicle)** - Autonomous navigation: YOLOv8 obstacle detection, A*/RRT* path planning, behavior trees, MAVLink communication.
-- **[Job Fit Analyzer](https://clawdbot-setup-app-haw39wkx.devinapps.com)** - Full-stack NLP app (React + FastAPI) analyzing job descriptions against candidate profiles using semantic similarity.
-- **[AI Advantage Sports](https://aiadvantagesports.com)** - Production sports betting platform with ML predictions and real-time value bet alerts.
+- **[AI Advantage Sports](https://aiadvantagesports.com)** - Sports betting platform with integrated XGBoost ML predictions, Kelly Criterion bet sizing, and value bet detection for NBA games. Model achieved 68% prediction accuracy. (React, Python, XGBoost)
+- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw for sports odds analysis, NFT price tracking, and portfolio visualization. Published custom skills to ClawHub marketplace. (TypeScript, OpenClaw)
+- **[Drone AI](https://github.com/ianalloway/ai-drone-auto-vehicle)** - Autonomous vehicle intelligence platform with YOLOv8 computer vision, A*/RRT* path planning, behavior trees, and MAVLink drone integration. (Python, PyTorch, MAVLink)
+- **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA game prediction model deployed on HuggingFace. XGBoost classifier with feature engineering on player stats, team metrics, and historical matchups. (Python, XGBoost, Streamlit)
+- **[Mutant Intelligence](https://mutantintelligence.com)** - Web3 application transforming Mutant Ape Yacht Club NFTs into AI assistants with traits-based personality. (React, Ethereum, Web3.js)
 - **[Crypto Portfolio CLI](https://github.com/ianalloway/crypto-portfolio-cli)** - Terminal portfolio tracker with live CoinGecko prices, Rich charts, and alerts.
 - **[AI Portfolio Analyzer](https://github.com/ianalloway/ai-portfolio-analyzer)** - AI-powered CLI for portfolio analysis with diversification recommendations.
 
@@ -35,17 +37,18 @@ Machine Learning Engineer graduating with a B.S. in Data Science from USF (May 2
 - **Machine Learning Engineering** - Google Cloud
 - **AWS Certified Cloud Practitioner** - Amazon Web Services
 - **Blockchain Fundamentals** - UC Berkeley Extension
-- **Oracle Database SQL Certified Associate** - Oracle
 - **Tableau Desktop Certified Professional** - Tableau / Salesforce
-- **SQL Specialist Certification** - Microsoft
-- **Microsoft Office Specialist: Excel** - Microsoft
+- **Oracle Database SQL Certified Associate** - Oracle
 
 ## Education
 
-- **B.S. Data Science and Analytics** - University of South Florida (Expected May 2026)
-- **M.S. Artificial Intelligence** - University of South Florida (Starting Fall 2026)
-- **Diploma, Hospitality Management** - Commonwealth University (2020-2022)
-- **A.A.** - Hillsborough Community College, Tampa
+- **M.S. Artificial Intelligence (MSAI)** - University of South Florida (Expected Dec 2027)
+- **B.S. Data Science and Analytics** - University of South Florida (Expected Dec 2025)
+- **Diploma, Hospitality Management** - Commonwealth University (June 2022)
+
+## Writing
+
+**[Alloway AI (Substack)](https://allowayai.substack.com)** - Technical writing on ML model development, AI agent architecture, and sports analytics.
 
 ---
 
