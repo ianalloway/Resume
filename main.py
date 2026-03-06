@@ -7,13 +7,6 @@ You can run this directly or use the CLI interface.
 """
 
 import sys
-import os
-from pathlib import Path
-
-# Add current directory to Python path
-current_dir = Path(__file__).parent
-sys.path.insert(0, str(current_dir))
-
 from cli import cli
 
 if __name__ == '__main__':

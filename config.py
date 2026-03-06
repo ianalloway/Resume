@@ -18,7 +18,7 @@ class AgentConfig(BaseSettings):
     
     # Model settings
     openai_model: str = Field(default="gpt-4")
-    anthropic_model: str = Field(default="claude-3-sonnet-20240229")
+    anthropic_model: str = Field(default="claude-sonnet-4-20250514")
     
     # Agent settings
     max_tokens: int = Field(default=4000)
