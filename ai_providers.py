@@ -2,6 +2,8 @@ from abc import ABC, abstractmethod
 from typing import List, Dict, Any, Optional
 import openai
 import anthropic
+from google import genai
+from google.genai import types as genai_types
 from config import get_config
 
 class AIProvider(ABC):
@@ -67,6 +69,51 @@ class AnthropicProvider(AIProvider):
         except Exception as e:
             raise Exception(f"Anthropic API error: {str(e)}")
 
+class GoogleProvider(AIProvider):
+    """Google Gemini provider implementation"""
+    
+    def __init__(self, api_key: Optional[str] = None):
+        config = get_config()
+        self.client = genai.Client(api_key=api_key or config.google_api_key)
+        self.model_name = config.google_model
+        
+    def generate_response(self, messages: List[Dict[str, str]], **kwargs) -> str:
+        config = get_config()
+        
+        try:
+            # Extract system instruction and build content list
+            system_instruction = None
+            contents = []
+            
+            for msg in messages:
+                if msg["role"] == "system":
+                    system_instruction = msg["content"]
+                elif msg["role"] == "user":
+                    contents.append(genai_types.Content(
+                        role="user",
+                        parts=[genai_types.Part(text=msg["content"])]
+                    ))
+                elif msg["role"] == "assistant":
+                    contents.append(genai_types.Content(
+                        role="model",
+                        parts=[genai_types.Part(text=msg["content"])]
+                    ))
+            
+            generate_config = genai_types.GenerateContentConfig(
+                max_output_tokens=kwargs.get('max_tokens', config.max_tokens),
+                temperature=kwargs.get('temperature', config.temperature),
+                system_instruction=system_instruction
+            )
+            
+            response = self.client.models.generate_content(
+                model=self.model_name,
+                contents=contents,
+                config=generate_config
+            )
+            return response.text
+        except Exception as e:
+            raise Exception(f"Google Gemini API error: {str(e)}")
+
 class AIProviderFactory:
     """Factory for creating AI providers"""
     
@@ -83,6 +130,10 @@ class AIProviderFactory:
             if not config.anthropic_api_key:
                 raise ValueError("Anthropic API key not found. Please set ANTHROPIC_API_KEY environment variable.")
             return AnthropicProvider()
+        elif provider.lower() == "google":
+            if not config.google_api_key:
+                raise ValueError("Google API key not found. Please set GOOGLE_API_KEY environment variable.")
+            return GoogleProvider()
         else:
             raise ValueError(f"Unsupported provider: {provider}")
 
