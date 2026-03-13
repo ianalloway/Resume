@@ -15,7 +15,7 @@ from config import get_config
 console = Console()
 
 @click.group()
-@click.option('--provider', type=click.Choice(['openai', 'anthropic']), help='AI provider to use')
+@click.option('--provider', type=click.Choice(['openai', 'anthropic', 'google']), help='AI provider to use')
 @click.option('--config-file', help='Path to configuration file')
 @click.pass_context
 def cli(ctx, provider, config_file):

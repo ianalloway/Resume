@@ -12,13 +12,15 @@ class AgentConfig(BaseSettings):
     # AI Provider Settings
     openai_api_key: Optional[str] = Field(default=None)
     anthropic_api_key: Optional[str] = Field(default=None)
+    google_api_key: Optional[str] = Field(default=None)
     
-    # Default AI provider (openai or anthropic)
+    # Default AI provider (openai, anthropic, or google)
     default_provider: str = Field(default="openai")
     
     # Model settings
-    openai_model: str = Field(default="gpt-4")
-    anthropic_model: str = Field(default="claude-3-sonnet-20240229")
+    openai_model: str = Field(default="gpt-4o")
+    anthropic_model: str = Field(default="claude-sonnet-4-20250514")
+    google_model: str = Field(default="gemini-2.0-flash")
     
     # Agent settings
     max_tokens: int = Field(default=4000)

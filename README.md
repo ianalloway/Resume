@@ -65,7 +65,7 @@ An AI-powered career assistance tool that helps you optimize your resume, prepar
 - **🎤 Interview Preparation**: Generate likely questions and strategic answers
 - **📚 Skill Development**: Get recommendations for career advancement
 - **🔄 Interactive Mode**: User-friendly CLI with rich formatting
-- **🌐 Multi-Provider Support**: Choose between OpenAI GPT-4 or Anthropic Claude
+- **🌐 Multi-Provider Support**: Choose between OpenAI GPT-4o, Anthropic Claude, or Google Gemini
 - **💾 Export Capabilities**: Save all outputs to formatted files
 
 ## 🛠️ Installation
@@ -99,12 +99,15 @@ An AI-powered career assistance tool that helps you optimize your resume, prepar
    Get an API key from at least one provider:
    - **OpenAI**: [platform.openai.com](https://platform.openai.com)
    - **Anthropic**: [console.anthropic.com](https://console.anthropic.com)
+   - **Google**: [aistudio.google.com](https://aistudio.google.com)
    
    Add your key(s) to the `.env` file:
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
    # or
    ANTHROPIC_API_KEY=your_anthropic_api_key_here
+   # or
+   GOOGLE_API_KEY=your_google_api_key_here
    ```
 
 ## 🚀 Quick Start
@@ -196,9 +199,11 @@ python cli.py skills --target-role "Machine Learning Engineer"
 |----------|-------------|---------|
 | `OPENAI_API_KEY` | OpenAI API key | None |
 | `ANTHROPIC_API_KEY` | Anthropic API key | None |
+| `GOOGLE_API_KEY` | Google API key | None |
 | `DEFAULT_AI_PROVIDER` | Default provider to use | `openai` |
-| `OPENAI_MODEL` | OpenAI model to use | `gpt-4` |
-| `ANTHROPIC_MODEL` | Anthropic model to use | `claude-3-sonnet-20240229` |
+| `OPENAI_MODEL` | OpenAI model to use | `gpt-4o` |
+| `ANTHROPIC_MODEL` | Anthropic model to use | `claude-sonnet-4-20250514` |
+| `GOOGLE_MODEL` | Google model to use | `gemini-2.0-flash` |
 | `MAX_TOKENS` | Maximum tokens per response | `4000` |
 | `TEMPERATURE` | AI creativity level (0-1) | `0.7` |
 | `RESUME_PATH` | Default resume file path | `Ian Alloway_CV.pdf` |
@@ -209,6 +214,7 @@ You can specify which AI provider to use:
 ```bash
 python cli.py --provider anthropic analyze
 python cli.py --provider openai advice "Career question here"
+python cli.py --provider google advice "Career question here"
 ```
 
 ## 📁 Project Structure
@@ -229,14 +235,19 @@ career-agent/
 ## 🤖 Supported AI Models
 
 ### OpenAI
-- GPT-4 (recommended)
+- GPT-4o (recommended)
+- GPT-4
 - GPT-3.5-turbo
-- Custom models
 
 ### Anthropic
-- Claude-3 Sonnet (recommended)
-- Claude-3 Haiku
-- Claude-2.1
+- Claude Sonnet 4 (recommended)
+- Claude 3.5 Sonnet
+- Claude 3 Haiku
+
+### Google
+- Gemini 2.0 Flash (recommended)
+- Gemini 1.5 Pro
+- Gemini 1.5 Flash
 
 ## 📄 Supported Document Formats
 
