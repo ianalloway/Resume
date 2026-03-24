@@ -31,6 +31,14 @@ Data Scientist and AI Engineer pursuing an MS in Artificial Intelligence at the 
 - **[Crypto Portfolio CLI](https://github.com/ianalloway/crypto-portfolio-cli)** - Terminal portfolio tracker with live CoinGecko prices, Rich charts, and alerts.
 - **[AI Portfolio Analyzer](https://github.com/ianalloway/ai-portfolio-analyzer)** - AI-powered CLI for portfolio analysis with diversification recommendations.
 - **[macOS Disk Cleanup](https://github.com/ianalloway/macos-disk-cleanup)** - Open-source Bash CLI for selective macOS cache cleanup (Homebrew, Go, Chrome, npm/pip, optional Docker/Xcode); documented algorithm, `--dry-run`, ShellCheck CI. (Bash, GitHub Actions)
+- **[dev-setup-macos](https://github.com/ianalloway/dev-setup-macos)** - One-command Homebrew Bundle bootstrap for dev machines. (Bash, Homebrew)
+- **[model-cardgen](https://github.com/ianalloway/model-cardgen)** - Generate Markdown model cards and data cards from JSON metrics. (Python, MLOps)
+- **[line-shop-cli](https://github.com/ianalloway/line-shop-cli)** - Flatten moneylines to CSV; optional Kelly sizing; demo or Odds API. (Python)
+- **[nba-ratings](https://github.com/ianalloway/nba-ratings)** - Installable Elo, logistic win probability, and Kelly helpers for NBA-style models. (Python)
+- **[agent-trace-kit](https://github.com/ianalloway/agent-trace-kit)** - JSONL agent traces and HTML replay for debugging LLM tool use. (Python)
+- **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js calibration / rolling accuracy / CLV demo dashboard. (FastAPI, JavaScript)
+- **[fraud-anomaly-bench](https://github.com/ianalloway/fraud-anomaly-bench)** - Synthetic + OpenML baselines; sklearn leaderboard harness. (Python, scikit-learn)
+- **[substack-rag-local](https://github.com/ianalloway/substack-rag-local)** - Local RAG over Substack RSS (TF–IDF + Streamlit/CLI). (Python, RAG)
 
 ## Certifications
 
