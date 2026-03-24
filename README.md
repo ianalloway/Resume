@@ -30,6 +30,7 @@ Data Scientist and AI Engineer pursuing an MS in Artificial Intelligence at the 
 - **[Mutant Intelligence](https://mutantintelligence.com)** - Web3 application transforming Mutant Ape Yacht Club NFTs into AI assistants with traits-based personality. (React, Ethereum, Web3.js)
 - **[Crypto Portfolio CLI](https://github.com/ianalloway/crypto-portfolio-cli)** - Terminal portfolio tracker with live CoinGecko prices, Rich charts, and alerts.
 - **[AI Portfolio Analyzer](https://github.com/ianalloway/ai-portfolio-analyzer)** - AI-powered CLI for portfolio analysis with diversification recommendations.
+- **[macOS Disk Cleanup](https://github.com/ianalloway/macos-disk-cleanup)** - Open-source Bash CLI for selective macOS cache cleanup (Homebrew, Go, Chrome, npm/pip, optional Docker/Xcode); documented algorithm, `--dry-run`, ShellCheck CI. (Bash, GitHub Actions)
 
 ## Certifications
 
