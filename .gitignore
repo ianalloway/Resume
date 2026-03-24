@@ -1,0 +1,15 @@
+# Secrets and local env (never commit)
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# OS / tooling
+.DS_Store
+*.log
