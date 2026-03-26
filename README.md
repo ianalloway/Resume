@@ -11,7 +11,7 @@
 
 ## About Me
 
-Data Scientist and AI Engineer pursuing an MS in Artificial Intelligence at the University of South Florida. Builds production ML systems, blockchain analytics pipelines, and AI-powered products. Open-source contributor to OpenClaw (194k+ stars). Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, and cybersecurity. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
+ML Engineer and Data Scientist completing a B.S. in Information Science at the University of South Florida in May 2026 and starting an M.S. in Artificial Intelligence in August 2026. Builds production ML systems, analytics tooling, and AI-powered products. Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, and cybersecurity. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
 
 **Key Skills:** Python, TensorFlow, PyTorch, Scikit-learn, XGBoost, Deep Learning, NLP, Computer Vision, YOLOv8, SQL, PostgreSQL, Pandas, NumPy, Tableau, Power BI, Docker, AWS, React, TypeScript, FastAPI, Ethereum, Solidity, MAVLink
 
@@ -19,26 +19,23 @@ Data Scientist and AI Engineer pursuing an MS in Artificial Intelligence at the 
 
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 194k+ star AI agent framework. Bug fixes, skill system improvements, and published 4 skills to ClawHub: sports-odds, nft-tracker, data-viz, screenshot-annotator
 - **[ClawHub Skills](https://clawhub.ai)** - Published 4 AI agent skills to the marketplace
-- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw for sports odds analysis, NFT price tracking, and portfolio visualization
+- **[repo-health](https://github.com/ianalloway/repo-health)** - CLI that scores repository quality across README, CI, licensing, maintenance, and staleness indicators
 
 ## Projects
 
 - **[AI Advantage Sports](https://aiadvantagesports.com)** - Sports betting platform with integrated XGBoost ML predictions, Kelly Criterion bet sizing, and value bet detection for NBA games. Model achieved 68% prediction accuracy. (React, Python, XGBoost)
-- **[Money Maker Bot](https://github.com/ianalloway/Money-maker-bot)** - Financial intelligence assistant built on OpenClaw for sports odds analysis, NFT price tracking, and portfolio visualization. Published custom skills to ClawHub marketplace. (TypeScript, OpenClaw)
-- **[Drone AI](https://github.com/ianalloway/ai-drone-auto-vehicle)** - Autonomous vehicle intelligence platform with YOLOv8 computer vision, A*/RRT* path planning, behavior trees, and MAVLink drone integration. (Python, PyTorch, MAVLink)
+- **[repo-health](https://github.com/ianalloway/repo-health)** - CLI that scores repository quality across README, CI, licensing, and maintenance indicators. (Python, CLI)
+- **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js dashboard for calibration, rolling accuracy, and CLV-style reporting. (FastAPI, JavaScript)
 - **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA game prediction model deployed on HuggingFace. XGBoost classifier with feature engineering on player stats, team metrics, and historical matchups. (Python, XGBoost, Streamlit)
-- **[Mutant Intelligence](https://mutantintelligence.com)** - Web3 application transforming Mutant Ape Yacht Club NFTs into AI assistants with traits-based personality. (React, Ethereum, Web3.js)
-- **[Crypto Portfolio CLI](https://github.com/ianalloway/crypto-portfolio-cli)** - Terminal portfolio tracker with live CoinGecko prices, Rich charts, and alerts.
-- **[AI Portfolio Analyzer](https://github.com/ianalloway/ai-portfolio-analyzer)** - AI-powered CLI for portfolio analysis with diversification recommendations.
+- **[kelly-js](https://github.com/ianalloway/kelly-js)** - TypeScript package for Kelly sizing, odds conversion, and bankroll math. (TypeScript, npm)
 - **[macOS Disk Cleanup](https://github.com/ianalloway/macos-disk-cleanup)** - Open-source Bash CLI for selective macOS cache cleanup (Homebrew, Go, Chrome, npm/pip, optional Docker/Xcode); documented algorithm, `--dry-run`, ShellCheck CI. (Bash, GitHub Actions)
-- **[dev-setup-macos](https://github.com/ianalloway/dev-setup-macos)** - One-command Homebrew Bundle bootstrap for dev machines. (Bash, Homebrew)
-- **[model-cardgen](https://github.com/ianalloway/model-cardgen)** - Generate Markdown model cards and data cards from JSON metrics. (Python, MLOps)
-- **[line-shop-cli](https://github.com/ianalloway/line-shop-cli)** - Flatten moneylines to CSV; optional Kelly sizing; demo or Odds API. (Python)
+- **[odds-drift-watch](https://github.com/ianalloway/odds-drift-watch)** - Webhook-based line-move monitoring with FastAPI and SQLite. (Python, FastAPI)
 - **[nba-ratings](https://github.com/ianalloway/nba-ratings)** - Installable Elo, logistic win probability, and Kelly helpers for NBA-style models. (Python)
-- **[agent-trace-kit](https://github.com/ianalloway/agent-trace-kit)** - JSONL agent traces and HTML replay for debugging LLM tool use. (Python)
+- **[backtest-report-gen](https://github.com/ianalloway/backtest-report-gen)** - Generate static HTML backtest reports from evaluation JSON. (Python, Reporting)
 - **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js calibration / rolling accuracy / CLV demo dashboard. (FastAPI, JavaScript)
-- **[fraud-anomaly-bench](https://github.com/ianalloway/fraud-anomaly-bench)** - Synthetic + OpenML baselines; sklearn leaderboard harness. (Python, scikit-learn)
-- **[substack-rag-local](https://github.com/ianalloway/substack-rag-local)** - Local RAG over Substack RSS (TF–IDF + Streamlit/CLI). (Python, RAG)
+- **[metric-regression-gate](https://github.com/ianalloway/metric-regression-gate)** - GitHub Action for blocking metric regressions in CI. (GitHub Actions, MLOps)
+- **[code-stash](https://github.com/ianalloway/code-stash)** - SQLite-backed snippet manager with local LLM search. (Python, Developer Tools)
+- **[repo-health](https://github.com/ianalloway/repo-health)** - Scores repo quality across README, licensing, CI, and staleness signals. (Python, CLI)
 
 ## Certifications
 
@@ -51,8 +48,8 @@ Data Scientist and AI Engineer pursuing an MS in Artificial Intelligence at the 
 
 ## Education
 
-- **M.S. Artificial Intelligence (MSAI)** - University of South Florida (Expected Dec 2027)
-- **B.S. Data Science and Analytics** - University of South Florida (Expected Dec 2025)
+- **M.S. Artificial Intelligence (MSAI)** - University of South Florida (Starting August 2026)
+- **B.S. Information Science** - University of South Florida (Expected May 2026)
 - **Diploma, Hospitality Management** - Commonwealth University (June 2022)
 
 ## Writing
