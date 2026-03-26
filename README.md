@@ -95,7 +95,7 @@ An AI-powered career assistance tool that helps you optimize your resume, prepar
 
 3. **Configure environment variables**
    ```bash
-   cp .env.example .env
+   cp env.example .env
    # Edit .env with your API keys and preferences
    ```
 
@@ -226,7 +226,7 @@ career-agent/
 ├── config.py           # Configuration management
 ├── cli.py              # Command-line interface
 ├── requirements.txt    # Python dependencies
-├── .env.example       # Environment template
+├── env.example       # Environment template
 ├── output/            # Generated files (created automatically)
 └── README.md          # This file
 ```

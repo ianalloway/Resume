@@ -22,7 +22,7 @@ pip install -r requirements.txt
 # Create .env file if it doesn't exist
 if [ ! -f ".env" ]; then
     echo "⚙️ Creating configuration file..."
-    cp .env.example .env
+    cp env.example .env
     echo "✅ Configuration file created at .env"
     echo "🔑 Please edit .env and add your API keys before using the agent."
 fi
