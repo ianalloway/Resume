@@ -3,7 +3,6 @@
 **AI/ML Engineer | Data Scientist | Business Intelligence Specialist**
 
 [![Download Resume (PDF)](https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ianalloway/Resume/raw/main/Ian_Alloway_Resume_CV.pdf)
-[![Download Resume (DOCX)](https://img.shields.io/badge/Download-Resume%20(DOCX)-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/ianalloway/Resume/raw/main/Ian_Alloway_Resume_CV.docx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianalloway.xyz-00D100?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ianalloway.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianit)
 
