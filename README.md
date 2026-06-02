@@ -23,7 +23,6 @@ ML Engineer and Data Scientist completing a B.S. in Information Science at the U
 ## Projects
 
 - **[AI Advantage Sports](https://aiadvantagesports.com)** - Sports betting platform with integrated XGBoost ML predictions, Kelly Criterion bet sizing, and value bet detection for NBA games. Model achieved 68% prediction accuracy. (React, Python, XGBoost)
-- **[repo-health](https://github.com/ianalloway/repo-health)** - CLI that scores repository quality across README, CI, licensing, and maintenance indicators. (Python, CLI)
 - **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js dashboard for calibration, rolling accuracy, and CLV-style reporting. (FastAPI, JavaScript)
 - **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA game prediction model deployed on HuggingFace. XGBoost classifier with feature engineering on player stats, team metrics, and historical matchups. (Python, XGBoost, Streamlit)
 - **[kelly-js](https://github.com/ianalloway/kelly-js)** - TypeScript package for Kelly sizing, odds conversion, and bankroll math. (TypeScript, npm)
@@ -31,10 +30,8 @@ ML Engineer and Data Scientist completing a B.S. in Information Science at the U
 - **[odds-drift-watch](https://github.com/ianalloway/odds-drift-watch)** - Webhook-based line-move monitoring with FastAPI and SQLite. (Python, FastAPI)
 - **[nba-ratings](https://github.com/ianalloway/nba-ratings)** - Installable Elo, logistic win probability, and Kelly helpers for NBA-style models. (Python)
 - **[backtest-report-gen](https://github.com/ianalloway/backtest-report-gen)** - Generate static HTML backtest reports from evaluation JSON. (Python, Reporting)
-- **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js calibration / rolling accuracy / CLV demo dashboard. (FastAPI, JavaScript)
 - **[metric-regression-gate](https://github.com/ianalloway/metric-regression-gate)** - GitHub Action for blocking metric regressions in CI. (GitHub Actions, MLOps)
 - **[code-stash](https://github.com/ianalloway/code-stash)** - SQLite-backed snippet manager with local LLM search. (Python, Developer Tools)
-- **[repo-health](https://github.com/ianalloway/repo-health)** - Scores repo quality across README, licensing, CI, and staleness signals. (Python, CLI)
 
 ## Certifications
 
