@@ -25,7 +25,7 @@ class AgentConfig(BaseSettings):
     temperature: float = Field(default=0.7)
     
     # File paths
-    resume_path: str = Field(default="Ian Alloway_CV.pdf")
+    resume_path: str = Field(default="Ian_Alloway_Resume_CV.pdf")
     output_dir: str = Field(default="output")
     
     model_config = {
