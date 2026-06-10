@@ -203,7 +203,7 @@ python cli.py skills --target-role "Machine Learning Engineer"
 | `ANTHROPIC_MODEL` | Anthropic model to use | `claude-3-sonnet-20240229` |
 | `MAX_TOKENS` | Maximum tokens per response | `4000` |
 | `TEMPERATURE` | AI creativity level (0-1) | `0.7` |
-| `RESUME_PATH` | Default resume file path | `Ian Alloway_CV.pdf` |
+| `RESUME_PATH` | Default resume file path | `Ian_Alloway_Resume_CV.pdf` |
 | `OUTPUT_DIR` | Directory for saved outputs | `output` |
 
 ### Provider Selection

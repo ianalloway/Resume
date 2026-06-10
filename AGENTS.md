@@ -25,7 +25,7 @@ config.py            # Configuration
 document_parser.py   # Resume/document parsing
 setup.sh             # Setup script
 INTERVIEW_TIPS.md    # Interview preparation guide
-Ian Alloway_CV.pdf   # Current CV
+Ian_Alloway_Resume_CV.pdf   # Current CV
 ```
 
 ## Key Conventions
