@@ -8,7 +8,7 @@ I build applied machine learning and analytics products that are meant to be use
 
 My work focuses on production-oriented ML, evaluation tooling, dashboards, and decision-support systems. Across my projects and consulting work, I’ve built model-driven applications, reporting tools, and analytics workflows in Python, SQL, FastAPI, TypeScript, and modern data tooling.
 
-I completed my B.S. in Information Science at the University of South Florida and am currently pursuing an M.S. in Artificial Intelligence at USF.
+I completed my B.S. in Information Science at the University of South Florida in May 2026 and am currently pursuing an M.S. in Artificial Intelligence at USF.
 
 A lot of my public work centers on:
 - applied ML and forecasting

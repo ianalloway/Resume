@@ -10,18 +10,20 @@
 
 ## About Me
 
-ML Engineer and Data Scientist with a B.S. in Information Science from the University of South Florida and currently pursuing an M.S. in Artificial Intelligence at USF. Builds production ML systems, analytics tooling, and AI-powered products. Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, and cybersecurity. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
+ML Engineer and Data Scientist with a B.S. in Information Science from the University of South Florida, completed in May 2026, and currently pursuing an M.S. in Artificial Intelligence at USF. Builds production ML systems, LLM evaluation tooling, analytics workflows, and AI-powered products. Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, cybersecurity, and AI evaluation use cases. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
 
-**Key Skills:** Python, TensorFlow, PyTorch, Scikit-learn, XGBoost, Deep Learning, NLP, Computer Vision, YOLOv8, SQL, PostgreSQL, Pandas, NumPy, Tableau, Power BI, Docker, AWS, React, TypeScript, FastAPI, Ethereum, Solidity, MAVLink
+**Key Skills:** Python, TensorFlow, PyTorch, Scikit-learn, XGBoost, LLM-as-judge evaluation, prompt-injection testing, calibration, NLP, SQL, PostgreSQL, Pandas, NumPy, Tableau, Power BI, Docker, AWS, React, TypeScript, FastAPI, Ethereum, Solidity
 
 ## Open Source Contributions
 
+- **[juryrig](https://github.com/ianalloway/juryrig)** - Zero-dependency Python toolkit for auditing LLM judges across position bias, verbosity bias, prompt-injection susceptibility, self-consistency, panels, and calibration scoring
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 194k+ star AI agent framework. Bug fixes, skill system improvements, and published 4 skills to ClawHub: sports-odds, nft-tracker, data-viz, screenshot-annotator
 - **[ClawHub Skills](https://clawhub.ai)** - Published 4 AI agent skills to the marketplace
 - **[repo-health](https://github.com/ianalloway/repo-health)** - CLI that scores repository quality across README, CI, licensing, maintenance, and staleness indicators
 
 ## Projects
 
+- **[juryrig](https://github.com/ianalloway/juryrig)** - Audit LLM-as-judge pipelines before trusting their scores: position bias, verbosity bias, prompt-injection susceptibility, self-consistency, judge panels, and calibration. Zero dependencies. (Python, AI evals)
 - **[AI Advantage Sports](https://aiadvantagesports.com)** - Sports betting platform with integrated XGBoost ML predictions, Kelly Criterion bet sizing, and value bet detection for NBA games. Model achieved 68% prediction accuracy. (React, Python, XGBoost)
 - **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js dashboard for calibration, rolling accuracy, and CLV-style reporting. (FastAPI, JavaScript)
 - **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA game prediction model deployed on HuggingFace. XGBoost classifier with feature engineering on player stats, team metrics, and historical matchups. (Python, XGBoost, Streamlit)
@@ -45,7 +47,7 @@ ML Engineer and Data Scientist with a B.S. in Information Science from the Unive
 ## Education
 
 - **M.S. Artificial Intelligence (MSAI)** - University of South Florida (In Progress)
-- **B.S. Information Science** - University of South Florida (Completed)
+- **B.S. Information Science** - University of South Florida (Completed May 2026)
 - **Diploma, Hospitality Management** - Commonwealth University (June 2022)
 
 ## Writing
