@@ -7,7 +7,7 @@ Hi [Name],
 
 I applied for the [Role Title] position and wanted to briefly introduce myself directly.
 
-I’m a machine learning and data-focused builder with experience shipping applied ML products, evaluation dashboards, analytics tooling, and decision-support systems. I’m currently completing a B.S. in Information Science at USF and starting an M.S. in Artificial Intelligence in August 2026.
+I’m a machine learning and data-focused builder with experience shipping applied ML products, evaluation dashboards, analytics tooling, and decision-support systems. I completed my B.S. in Information Science at USF and am currently pursuing an M.S. in Artificial Intelligence at USF.
 
 A few examples of my public work are here:
 - Portfolio: https://ianalloway.xyz
@@ -27,7 +27,7 @@ Hi [Name],
 
 I’m reaching out because I’m exploring ML Engineer, Data Scientist, and Applied AI roles, and your team looks especially aligned with the kind of work I’ve been building.
 
-My background is in applied ML, analytics tooling, and evaluation-first systems. I’ve built public projects across forecasting, dashboards, model evaluation, and decision-support tools, and I’m currently finishing a B.S. in Information Science at USF while preparing to start an M.S. in AI in August 2026.
+My background is in applied ML, analytics tooling, and evaluation-first systems. I’ve built public projects across forecasting, dashboards, model evaluation, and decision-support tools, and I completed my B.S. in Information Science at USF and am currently pursuing an M.S. in AI at USF.
 
 If useful, I’d be happy to share my resume and a few relevant project links.
 

@@ -10,7 +10,7 @@
 
 ## About Me
 
-ML Engineer and Data Scientist completing a B.S. in Information Science at the University of South Florida in May 2026 and starting an M.S. in Artificial Intelligence in August 2026. Builds production ML systems, analytics tooling, and AI-powered products. Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, and cybersecurity. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
+ML Engineer and Data Scientist with a B.S. in Information Science from the University of South Florida and currently pursuing an M.S. in Artificial Intelligence at USF. Builds production ML systems, analytics tooling, and AI-powered products. Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, and cybersecurity. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
 
 **Key Skills:** Python, TensorFlow, PyTorch, Scikit-learn, XGBoost, Deep Learning, NLP, Computer Vision, YOLOv8, SQL, PostgreSQL, Pandas, NumPy, Tableau, Power BI, Docker, AWS, React, TypeScript, FastAPI, Ethereum, Solidity, MAVLink
 
@@ -44,8 +44,8 @@ ML Engineer and Data Scientist completing a B.S. in Information Science at the U
 
 ## Education
 
-- **M.S. Artificial Intelligence (MSAI)** - University of South Florida (Starting August 2026)
-- **B.S. Information Science** - University of South Florida (Expected May 2026)
+- **M.S. Artificial Intelligence (MSAI)** - University of South Florida (In Progress)
+- **B.S. Information Science** - University of South Florida (Completed)
 - **Diploma, Hospitality Management** - Commonwealth University (June 2022)
 
 ## Writing
