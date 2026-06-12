@@ -1,6 +1,6 @@
 # Ian Alloway - Resume & Career Tools
 
-**AI/ML Engineer | Data Scientist | Business Intelligence Specialist**
+**Applied AI Engineer | Data Scientist | Evaluation-Driven Software and Agent App Builder**
 
 [![Download Resume (PDF)](https://img.shields.io/badge/Download-Resume%20(PDF)-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ianalloway/Resume/raw/main/Ian_Alloway_Resume_CV.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianalloway.xyz-00D100?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ianalloway.xyz)
@@ -10,30 +10,26 @@
 
 ## About Me
 
-ML Engineer and Data Scientist with a B.S. in Information Science from the University of South Florida, completed in May 2026, and currently pursuing an M.S. in Artificial Intelligence at USF. Builds production ML systems, LLM evaluation tooling, analytics workflows, and AI-powered products. Founder of Alloway LLC, delivering data-driven solutions across sports analytics, fintech, cybersecurity, and AI evaluation use cases. Proven track record of reducing fraud incidents by 30% through AI-based anomaly detection and improving client operational efficiency by 40%.
+Applied AI engineer and data scientist with a B.S. in Information Science from the University of South Florida, completed in May 2026, and an M.S. in Artificial Intelligence at USF in progress. I build evaluation-driven software, agent-developed apps, analytics workflows, and public-facing AI products. Founder of Alloway LLC, with work spanning AI evaluation, data auditing, predictive analytics, and decision-support systems. Proven track record of reducing fraud incidents by 30% through anomaly-detection workflows and improving client operational efficiency by 40%.
 
-**Key Skills:** Python, TensorFlow, PyTorch, Scikit-learn, XGBoost, LLM-as-judge evaluation, prompt-injection testing, calibration, NLP, SQL, PostgreSQL, Pandas, NumPy, Tableau, Power BI, Docker, AWS, React, TypeScript, FastAPI, Ethereum, Solidity
+**Key Skills:** Python, SQL, TypeScript, JavaScript, R, FastAPI, React, Scikit-learn, XGBoost, PyTorch, TensorFlow, LLM-as-judge evaluation, prompt-injection testing, calibration, NLP, PostgreSQL, Pandas, NumPy, Tableau, Power BI, Docker, GitHub Actions, AWS
 
 ## Open Source Contributions
 
 - **[juryrig](https://github.com/ianalloway/juryrig)** - Zero-dependency Python toolkit for auditing LLM judges across position bias, verbosity bias, prompt-injection susceptibility, self-consistency, panels, and calibration scoring
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - Active contributor to the 194k+ star AI agent framework. Bug fixes, skill system improvements, and published 4 skills to ClawHub: sports-odds, nft-tracker, data-viz, screenshot-annotator
-- **[ClawHub Skills](https://clawhub.ai)** - Published 4 AI agent skills to the marketplace
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - Contributor to the OpenClaw AI agent framework with bug fixes, skill system improvements, and published agent skills
+- **[ClawHub Skills](https://clawhub.ai)** - Published AI agent skills focused on practical workflows and developer utility
 - **[repo-health](https://github.com/ianalloway/repo-health)** - CLI that scores repository quality across README, CI, licensing, maintenance, and staleness indicators
 
 ## Projects
 
 - **[juryrig](https://github.com/ianalloway/juryrig)** - Audit LLM-as-judge pipelines before trusting their scores: position bias, verbosity bias, prompt-injection susceptibility, self-consistency, judge panels, and calibration. Zero dependencies. (Python, AI evals)
-- **[AI Advantage Sports](https://aiadvantagesports.com)** - Sports betting platform with integrated XGBoost ML predictions, Kelly Criterion bet sizing, and value bet detection for NBA games. Model achieved 68% prediction accuracy. (React, Python, XGBoost)
-- **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js dashboard for calibration, rolling accuracy, and CLV-style reporting. (FastAPI, JavaScript)
-- **[Sports Betting ML](https://huggingface.co/spaces/ianalloway/sports-betting-ml)** - NBA game prediction model deployed on HuggingFace. XGBoost classifier with feature engineering on player stats, team metrics, and historical matchups. (Python, XGBoost, Streamlit)
+- **[ian-web-forge](https://github.com/ianalloway/ian-web-forge)** - Recruiter-facing portfolio site and product surface for project proof, resume distribution, writing, and public case studies. (React, TypeScript)
+- **[repo-health](https://github.com/ianalloway/repo-health)** - Repository-quality CLI for README quality, CI, licensing, maintenance, and staleness indicators. (Python, Developer Tools)
+- **[AI Advantage Sports](https://aiadvantagesports.com)** - Public-facing ML product with integrated predictions, Kelly sizing, and workflow design that feels like a real application, not just a benchmark. (React, Python, XGBoost)
 - **[kelly-js](https://github.com/ianalloway/kelly-js)** - TypeScript package for Kelly sizing, odds conversion, and bankroll math. (TypeScript, npm)
-- **[macOS Disk Cleanup](https://github.com/ianalloway/macos-disk-cleanup)** - Open-source Bash CLI for selective macOS cache cleanup (Homebrew, Go, Chrome, npm/pip, optional Docker/Xcode); documented algorithm, `--dry-run`, ShellCheck CI. (Bash, GitHub Actions)
-- **[odds-drift-watch](https://github.com/ianalloway/odds-drift-watch)** - Webhook-based line-move monitoring with FastAPI and SQLite. (Python, FastAPI)
-- **[nba-ratings](https://github.com/ianalloway/nba-ratings)** - Installable Elo, logistic win probability, and Kelly helpers for NBA-style models. (Python)
-- **[backtest-report-gen](https://github.com/ianalloway/backtest-report-gen)** - Generate static HTML backtest reports from evaluation JSON. (Python, Reporting)
-- **[metric-regression-gate](https://github.com/ianalloway/metric-regression-gate)** - GitHub Action for blocking metric regressions in CI. (GitHub Actions, MLOps)
-- **[code-stash](https://github.com/ianalloway/code-stash)** - SQLite-backed snippet manager with local LLM search. (Python, Developer Tools)
+- **[nba-clv-dashboard](https://github.com/ianalloway/nba-clv-dashboard)** - FastAPI + Chart.js dashboard for calibration, rolling accuracy, and CLV-style reporting. (FastAPI, JavaScript)
+- **[macOS Disk Cleanup](https://github.com/ianalloway/macos-disk-cleanup)** - Careful Bash CLI for selective macOS cache cleanup with documented safeguards and ShellCheck CI. (Bash, GitHub Actions)
 
 ## Certifications
 
@@ -52,7 +48,7 @@ ML Engineer and Data Scientist with a B.S. in Information Science from the Unive
 
 ## Writing
 
-**[Alloway AI (Substack)](https://allowayai.substack.com)** - Technical writing on ML model development, AI agent architecture, and sports analytics.
+**[Alloway AI (Substack)](https://allowayai.substack.com)** - Technical writing on applied AI, model behavior, AI agent architecture, and evaluation-focused software.
 
 ---
 

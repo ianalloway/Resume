@@ -1,0 +1,77 @@
+Ian Alloway
+Fairmont, WV (Remote-Friendly)
+727-470-8666 | ian@allowayllc.com
+LinkedIn: https://linkedin.com/in/ianit
+GitHub: https://github.com/ianalloway
+Portfolio: https://ianalloway.xyz
+Substack: https://allowayai.substack.com
+
+SUMMARY
+Applied AI engineer and data scientist building evaluation-driven software, agent-developed apps, and analytics products. Completed a B.S. in Information Science at the University of South Florida in May 2026 and currently pursuing an M.S. in Artificial Intelligence at USF. Founder of Alloway LLC, with strongest public proof in LLM evaluation, AI auditing, developer tooling, dashboards, and decision-support systems built with Python, SQL, TypeScript, FastAPI, and R.
+
+TECHNICAL SKILLS
+Languages: Python, SQL, TypeScript, JavaScript, R, Bash
+ML / AI: Scikit-learn, XGBoost, PyTorch, TensorFlow, NLP, LLM-as-judge audits, prompt-injection testing, model evaluation, calibration, forecasting
+Data / Analytics: Pandas, NumPy, Tableau, Power BI, statistical analysis, experimentation, dashboarding, predictive analytics
+Backend / Infra: FastAPI, React, Node.js, PostgreSQL, SQLite, Redis, Docker, Git, GitHub Actions, AWS
+Focus Areas: AI evaluation, agent-developed apps, data auditing, developer tooling, fraud detection, decision-support systems
+
+EXPERIENCE
+Founder & Data Consultant, Alloway LLC
+July 2023 - Present | Morgantown, WV
+- Founded a consultancy delivering applied AI, analytics, and automation solutions for sports, fintech, and business operations use cases.
+- Shipped decision-support tools, dashboards, and reporting workflows from requirements gathering through deployment and client handoff.
+- Developed ML-driven and data-quality workflows that improved client operational efficiency by 40%.
+- Built production dashboards in Tableau and Power BI across marketing, logistics, and customer-service data.
+
+Data Auditor / AI Engineer, Omniichain
+Jan 2020 - Dec 2024 | Remote
+- Extracted, normalized, and analyzed multi-chain blockchain data from Ethereum, Solana, and Polkadot networks.
+- Built anomaly-detection tooling and audit workflows that reduced fraud incidents by 30%.
+- Created dashboards for token flow, market movement, and transactional risk monitoring.
+- Benchmarked smart-contract performance and data quality workflows using Python and SQL.
+
+Sales & Purchasing Manager, IT Parts and Spares Ltd.
+Sept 2018 - Aug 2020 | Miami/Fort Lauderdale, FL
+- Led procurement operations with international vendors, optimizing logistics and reducing costs by 15%.
+- Maintained inventory and purchasing systems with a strong focus on data accuracy and operational visibility.
+- Forecasted demand and negotiated pricing across major OEM contracts including HP, IBM, Lenovo, and Dell.
+
+Task Force Manager, Hilton Hotels
+Aug 2020 - Sept 2023 | Tampa, FL
+- Directed operational improvements across multiple properties, achieving measurable guest satisfaction increases up to 20%.
+- Managed property P&L, budgets, vendor relationships, and GM-level operational coverage during transitions.
+
+PROJECTS
+juryrig: Zero-dependency Python toolkit for auditing LLM-as-judge pipelines across position bias, verbosity bias, prompt-injection susceptibility, self-consistency, judge panels, and calibration scoring. Python. https://github.com/ianalloway/juryrig
+
+ian-web-forge: Recruiter-facing portfolio site and product surface for project proof, writing, resume distribution, and public case studies. React, TypeScript. https://github.com/ianalloway/ian-web-forge
+
+repo-health: CLI that scores repository quality across README quality, CI, licensing, staleness, and maintenance indicators. Python CLI. https://github.com/ianalloway/repo-health
+
+AI Advantage Sports: Sports analytics platform with ML predictions, Kelly-based bet sizing, and live product workflows for NBA use cases. React, Python, XGBoost. https://aiadvantagesports.com
+
+kelly-js: TypeScript package for Kelly sizing, odds conversion, and bankroll math in lightweight decision-support workflows. TypeScript, npm. https://github.com/ianalloway/kelly-js
+
+NBA CLV Dashboard: FastAPI and Chart.js dashboard for calibration, rolling accuracy, and CLV-style evaluation reporting. Python, FastAPI, Chart.js. https://github.com/ianalloway/nba-clv-dashboard
+
+OPEN SOURCE
+OpenClaw: Contributor to the OpenClaw AI agent framework, including bug fixes, skill-system improvements, and published agent skills on ClawHub. https://github.com/openclaw/openclaw
+
+WRITING
+Alloway AI: Public writing on applied AI, model behavior, and evaluation-focused software. https://allowayai.substack.com
+
+EDUCATION
+M.S. Artificial Intelligence, University of South Florida
+In Progress
+
+B.S. Information Science, University of South Florida
+Completed May 2026
+
+CERTIFICATIONS
+Deep Learning Specialization (Andrew Ng, Coursera)
+Machine Learning Engineering (Google Cloud)
+AWS Certified Cloud Practitioner
+Blockchain Fundamentals (UC Berkeley)
+Oracle Database SQL Certified Associate
+Tableau Desktop Certified Professional
