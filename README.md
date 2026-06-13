@@ -23,6 +23,7 @@ Applied AI engineer and data scientist with a B.S. in Information Science from t
 
 ## Projects
 
+- **Project Sunflower** - ChatGPT app-development and software-practices evaluation project focused on aesthetics, logic, taste, and overall product quality in agent-built applications.
 - **[juryrig](https://github.com/ianalloway/juryrig)** - Audit LLM-as-judge pipelines before trusting their scores: position bias, verbosity bias, prompt-injection susceptibility, self-consistency, judge panels, and calibration. Zero dependencies. (Python, AI evals)
 - **[ian-web-forge](https://github.com/ianalloway/ian-web-forge)** - Recruiter-facing portfolio site and product surface for project proof, resume distribution, writing, and public case studies. (React, TypeScript)
 - **[repo-health](https://github.com/ianalloway/repo-health)** - Repository-quality CLI for README quality, CI, licensing, maintenance, and staleness indicators. (Python, Developer Tools)

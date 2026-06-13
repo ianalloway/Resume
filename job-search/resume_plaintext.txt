@@ -43,6 +43,8 @@ Aug 2020 - Sept 2023 | Tampa, FL
 - Managed property P&L, budgets, vendor relationships, and GM-level operational coverage during transitions.
 
 PROJECTS
+Project Sunflower: ChatGPT app-development and software-practices evaluation project focused on aesthetics, logic, taste, and overall product quality in agent-built applications. ChatGPT.
+
 juryrig: Zero-dependency Python toolkit for auditing LLM-as-judge pipelines across position bias, verbosity bias, prompt-injection susceptibility, self-consistency, judge panels, and calibration scoring. Python. https://github.com/ianalloway/juryrig
 
 ian-web-forge: Recruiter-facing portfolio site and product surface for project proof, writing, resume distribution, and public case studies. React, TypeScript. https://github.com/ianalloway/ian-web-forge
