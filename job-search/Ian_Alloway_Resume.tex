@@ -1,0 +1,149 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=0.55in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{xcolor}
+\usepackage{tabularx}
+
+\definecolor{linkblue}{HTML}{0969DA}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkblue,
+    urlcolor=linkblue,
+    pdfborder={0 0 0}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\titleformat{\section}{\large\bfseries\scshape}{}{0pt}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+\titleformat{\subsection}[runin]{\bfseries}{}{0pt}{}
+\titlespacing{\subsection}{0pt}{4pt}{4pt}
+
+\newcommand{\resumeitem}[1]{\item[\textbullet] #1}
+
+\begin{document}
+
+% ===== HEADER =====
+\begin{center}
+    {\LARGE\bfseries Ian Alloway} \\[4pt]
+    727-470-8666 \,$\vert$\,
+    \href{mailto:ian@allowayllc.com}{ian@allowayllc.com} \,$\vert$\,
+    \href{https://linkedin.com/in/ianit}{linkedin.com/in/ianit} \,$\vert$\,
+    \href{https://github.com/ianalloway}{github.com/ianalloway} \\[2pt]
+    \href{https://ianalloway.xyz}{ianalloway.xyz} \,$\vert$\,
+    \href{https://allowayai.substack.com}{allowayai.substack.com} \,$\vert$\,
+    Fairmont, WV (Remote-Friendly)
+\end{center}
+
+\vspace{-2pt}
+
+% ===== SUMMARY =====
+\section{Summary}
+ML Engineer and Data Scientist building production ML systems, model evaluation workflows, and analytics products. Technical Staff at OpenAI evaluating agent-built software and app development quality. Founder of Alloway LLC, with work across applied ML, blockchain analytics, cybersecurity data science, and decision-support systems. B.S. in Information Science, USF (May 2026, Magna Cum Laude, 3.5 GPA); M.S. in Artificial Intelligence, USF (August 2026).
+
+% ===== TECHNICAL SKILLS =====
+\section{Technical Skills}
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\textbf{Languages:} & Python, SQL, TypeScript, JavaScript, R, Bash \\
+\textbf{ML / AI:} & Scikit-learn, XGBoost, PyTorch, TensorFlow, NLP, model \& agent evaluation, rubric-based code review, calibration, forecasting, computer vision \\
+\textbf{Data / Analytics:} & Pandas, NumPy, Tableau, Power BI, statistical analysis, experimentation, dashboarding \\
+\textbf{Backend / Infra:} & FastAPI, React, Node.js, PostgreSQL, SQLite, Redis, Docker, Git, GitHub Actions, AWS \\
+\textbf{Domain Experience:} & Sports analytics, blockchain analytics, fraud detection, decision-support systems \\
+\end{tabularx}
+
+% ===== EXPERIENCE =====
+\section{Experience}
+
+\textbf{Technical Staff} \hfill June 2026 -- Present \\
+\textit{OpenAI} \hfill Remote
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Evaluate ChatGPT app development and agent-built software across engineering practices, logic, aesthetics, design taste, and overall product quality}
+    \resumeitem{Apply rubric-based review to assess code quality, UX gaps, and failure modes in autonomously generated applications}
+    \resumeitem{Deliver detailed written feedback to improve model performance on real-world software development and app-building workflows}
+\end{itemize}
+
+\vspace{4pt}
+
+\textbf{Founder \& Data Consultant} \hfill July 2023 -- Present \\
+\textit{Alloway LLC} \hfill Morgantown, WV
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Deliver applied ML, analytics, and automation solutions for sports, fintech, and business operations clients}
+    \resumeitem{Built ML-driven decision tools and dashboards that improved client operational efficiency by 40\%}
+    \resumeitem{Lead engagements end to end: requirements, implementation, deployment, and client handoff}
+\end{itemize}
+
+\vspace{4pt}
+
+\textbf{Data Science Contractor} \hfill Dec 2024 -- Dec 2025 \\
+\textit{West Virginia University} \hfill Morgantown, WV
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Built data science deliverables across cybersecurity and hospitality analytics use cases}
+    \resumeitem{Developed predictive modeling workflows and analytics prototypes for applied research projects}
+\end{itemize}
+
+\vspace{4pt}
+
+\textbf{Senior Auditor} \hfill Oct 2024 -- Dec 2025 \\
+\textit{Omniichain} \hfill Remote
+\begin{itemize}[nosep, leftmargin=16pt, topsep=2pt]
+    \resumeitem{Analyzed multi-chain blockchain data across Ethereum, Solana, and Polkadot to improve omnichain monitoring}
+    \resumeitem{Implemented AI-powered anomaly detection and cross-chain analytics tooling; reduced fraud incidents by 30\%}
+    \resumeitem{Partnered with engineering teams to integrate analytics into production workflows and optimize cross-chain performance}
+\end{itemize}
+
+% ===== PROJECTS =====
+\section{Projects}
+
+\textbf{\href{https://github.com/ianalloway/juryrig}{juryrig}} --- Toolkit for auditing LLM-as-judge pipelines: position bias, prompt-injection susceptibility, calibration, and judge panels. \textit{(Python)}
+
+\vspace{3pt}
+
+\textbf{\href{https://aiadvantagesports.com}{AI Advantage Sports}} --- Sports analytics platform with ML predictions, Kelly-based bet sizing, and live NBA workflows. \textit{(React, Python, XGBoost)}
+
+\vspace{3pt}
+
+\textbf{\href{https://github.com/ianalloway/nba-clv-dashboard}{NBA CLV Dashboard}} --- FastAPI dashboard for calibration, rolling accuracy, and CLV-style evaluation reporting. \textit{(Python, FastAPI)}
+
+\vspace{3pt}
+
+\textbf{\href{https://github.com/ianalloway/repo-health}{Repo Health}} --- CLI scoring repository quality across README, CI, licensing, and maintenance signals. \textit{(Python, CLI)}
+
+% ===== OPEN SOURCE =====
+\section{Open Source}
+\textbf{\href{https://github.com/openclaw/openclaw}{OpenClaw}} --- Contributor to the OpenClaw AI agent framework, including bug fixes, skill-system improvements, and published agent skills on \href{https://clawhub.ai}{ClawHub}.
+
+% ===== EDUCATION =====
+\section{Education}
+
+\textbf{M.S. Artificial Intelligence} \hfill Aug 2026 \\
+\textit{University of South Florida}
+
+\vspace{3pt}
+
+\textbf{B.S. Information Science} \hfill Aug 2024 -- May 2026 \\
+\textit{University of South Florida} \\
+\textit{GPA 3.5, Magna Cum Laude}
+
+\vspace{3pt}
+
+\textbf{Hillsborough Community College} \hfill Aug 2022 -- July 2024
+
+\vspace{3pt}
+
+\section{Certifications}
+Deep Learning Specialization (Andrew Ng, Coursera) \,$\vert$\,
+Machine Learning Engineering (Google Cloud) \,$\vert$\,
+AWS Certified Cloud Practitioner \,$\vert$\,
+Blockchain Fundamentals (UC Berkeley) \,$\vert$\,
+Oracle Database SQL Certified Associate \,$\vert$\,
+Tableau Desktop Certified Professional
+
+\end{document}

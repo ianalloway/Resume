@@ -1,0 +1,21 @@
+Ian Alloway
+Fairmont, WV (Remote-Friendly)
+727-470-8666 | ian@allowayllc.com
+LinkedIn: https://linkedin.com/in/ianit
+GitHub: https://github.com/ianalloway
+Portfolio: https://ianalloway.xyz
+
+Dear Hiring Manager,
+
+I am writing to express my interest in joining your team. I am an applied AI engineer and data scientist who builds evaluation-driven software, production analytics systems, and decision-support products. I would welcome the opportunity to contribute technical depth, clear communication, and a strong bias toward shipping work that can be measured and improved.
+
+I am currently Technical Staff at OpenAI, where I evaluate ChatGPT app development and agent-built software across engineering practices, logic, design taste, and overall product quality. That work has strengthened my ability to assess real-world code, surface failure modes, and give structured feedback that improves how models perform on software development tasks. As founder of Alloway LLC, I have delivered applied ML and analytics solutions end to end for sports, fintech, and business operations clients, including ML-driven tooling that improved client operational efficiency by 40%.
+
+My recent technical work also includes cybersecurity and hospitality analytics projects as a data science contractor at West Virginia University, and senior auditing work at Omniichain, where I built AI-powered anomaly detection over multi-chain blockchain data and helped reduce fraud incidents by 30%. Public projects such as juryrig, AI Advantage Sports, and repo-health reflect the same focus: practical systems, strong engineering habits, and evidence you can inspect.
+
+I completed a B.S. in Information Science at the University of South Florida in May 2026 (GPA 3.5, Magna Cum Laude) and will begin an M.S. in Artificial Intelligence at USF in August 2026. I am especially interested in roles where I can build useful AI products, improve model and system quality through evaluation, and work closely with engineering teams to ship reliable software.
+
+Thank you for your time and consideration. I would be glad to discuss how my background fits your needs.
+
+Sincerely,
+Ian Alloway

@@ -7,55 +7,47 @@ Portfolio: https://ianalloway.xyz
 Substack: https://allowayai.substack.com
 
 SUMMARY
-Applied AI engineer and data scientist building evaluation-driven software, agent-developed apps, and analytics products. Completed a B.S. in Information Science at the University of South Florida in May 2026 and currently pursuing an M.S. in Artificial Intelligence at USF. Founder of Alloway LLC, with strongest public proof in LLM evaluation, AI auditing, developer tooling, dashboards, and decision-support systems built with Python, SQL, TypeScript, FastAPI, and R.
+Applied AI engineer and data scientist building evaluation-driven software, agent-developed apps, and analytics products. Technical Staff at OpenAI; founder of Alloway LLC. B.S. in Information Science, USF (May 2026, GPA 3.5, Magna Cum Laude); M.S. in Artificial Intelligence, USF (August 2026). Strongest proof in LLM evaluation, blockchain analytics, cybersecurity data science, and decision-support systems built with Python, SQL, TypeScript, and FastAPI.
 
 TECHNICAL SKILLS
 Languages: Python, SQL, TypeScript, JavaScript, R, Bash
-ML / AI: Scikit-learn, XGBoost, PyTorch, TensorFlow, NLP, LLM-as-judge audits, prompt-injection testing, model evaluation, calibration, forecasting
+ML / AI: Scikit-learn, XGBoost, PyTorch, TensorFlow, NLP, LLM-as-judge audits, model evaluation, calibration, forecasting
 Data / Analytics: Pandas, NumPy, Tableau, Power BI, statistical analysis, experimentation, dashboarding, predictive analytics
 Backend / Infra: FastAPI, React, Node.js, PostgreSQL, SQLite, Redis, Docker, Git, GitHub Actions, AWS
-Focus Areas: AI evaluation, agent-developed apps, data auditing, developer tooling, fraud detection, decision-support systems
+Focus Areas: AI evaluation, agent-developed apps, blockchain analytics, fraud detection, cybersecurity data science
 
 EXPERIENCE
+Technical Staff, OpenAI
+June 2026 - Present | Remote
+- Evaluate ChatGPT app development and agent-built software across engineering practices, logic, aesthetics, design taste, and overall product quality.
+- Apply rubric-based review to assess code quality, UX gaps, and failure modes in autonomously generated applications.
+- Deliver detailed written feedback to improve model performance on real-world software development and app-building workflows.
+
 Founder & Data Consultant, Alloway LLC
 July 2023 - Present | Morgantown, WV
-- Founded a consultancy delivering applied AI, analytics, and automation solutions for sports, fintech, and business operations use cases.
-- Shipped decision-support tools, dashboards, and reporting workflows from requirements gathering through deployment and client handoff.
-- Developed ML-driven and data-quality workflows that improved client operational efficiency by 40%.
-- Built production dashboards in Tableau and Power BI across marketing, logistics, and customer-service data.
+- Deliver applied ML, analytics, and automation solutions for sports, fintech, and business operations clients.
+- Built ML-driven decision tools and dashboards that improved client operational efficiency by 40%.
+- Lead engagements end to end from requirements through deployment and client handoff.
 
-Data Auditor / AI Engineer, Omniichain
-Jan 2020 - Dec 2024 | Remote
-- Extracted, normalized, and analyzed multi-chain blockchain data from Ethereum, Solana, and Polkadot networks.
-- Built anomaly-detection tooling and audit workflows that reduced fraud incidents by 30%.
-- Created dashboards for token flow, market movement, and transactional risk monitoring.
-- Benchmarked smart-contract performance and data quality workflows using Python and SQL.
+Data Science Contractor, West Virginia University
+Dec 2024 - Dec 2025 | Morgantown, WV
+- Built data science deliverables across cybersecurity and hospitality analytics use cases.
+- Developed predictive modeling workflows and analytics prototypes for applied research projects.
 
-Sales & Purchasing Manager, IT Parts and Spares Ltd.
-Sept 2018 - Aug 2020 | Miami/Fort Lauderdale, FL
-- Led procurement operations with international vendors, optimizing logistics and reducing costs by 15%.
-- Maintained inventory and purchasing systems with a strong focus on data accuracy and operational visibility.
-- Forecasted demand and negotiated pricing across major OEM contracts including HP, IBM, Lenovo, and Dell.
-
-Task Force Manager, Hilton Hotels
-Aug 2020 - Sept 2023 | Tampa, FL
-- Directed operational improvements across multiple properties, achieving measurable guest satisfaction increases up to 20%.
-- Managed property P&L, budgets, vendor relationships, and GM-level operational coverage during transitions.
+Senior Auditor, Omniichain
+Oct 2024 - Dec 2025 | Remote
+- Analyzed multi-chain blockchain data across Ethereum, Solana, and Polkadot to improve omnichain monitoring.
+- Implemented AI-powered anomaly detection and cross-chain analytics tooling; reduced fraud incidents by 30%.
+- Partnered with engineering teams to integrate analytics into production workflows and optimize cross-chain performance.
 
 PROJECTS
-Project Sunflower: ChatGPT app-development and software-practices evaluation project focused on aesthetics, logic, taste, and overall product quality in agent-built applications. ChatGPT.
+juryrig: Toolkit for auditing LLM-as-judge pipelines across position bias, prompt-injection susceptibility, calibration, and judge panels. Python. https://github.com/ianalloway/juryrig
 
-juryrig: Zero-dependency Python toolkit for auditing LLM-as-judge pipelines across position bias, verbosity bias, prompt-injection susceptibility, self-consistency, judge panels, and calibration scoring. Python. https://github.com/ianalloway/juryrig
+AI Advantage Sports: Sports analytics platform with ML predictions, Kelly-based bet sizing, and live NBA workflows. React, Python, XGBoost. https://aiadvantagesports.com
 
-ian-web-forge: Recruiter-facing portfolio site and product surface for project proof, writing, resume distribution, and public case studies. React, TypeScript. https://github.com/ianalloway/ian-web-forge
+NBA CLV Dashboard: FastAPI dashboard for calibration, rolling accuracy, and CLV-style evaluation reporting. Python, FastAPI. https://github.com/ianalloway/nba-clv-dashboard
 
-repo-health: CLI that scores repository quality across README quality, CI, licensing, staleness, and maintenance indicators. Python CLI. https://github.com/ianalloway/repo-health
-
-AI Advantage Sports: Sports analytics platform with ML predictions, Kelly-based bet sizing, and live product workflows for NBA use cases. React, Python, XGBoost. https://aiadvantagesports.com
-
-kelly-js: TypeScript package for Kelly sizing, odds conversion, and bankroll math in lightweight decision-support workflows. TypeScript, npm. https://github.com/ianalloway/kelly-js
-
-NBA CLV Dashboard: FastAPI and Chart.js dashboard for calibration, rolling accuracy, and CLV-style evaluation reporting. Python, FastAPI, Chart.js. https://github.com/ianalloway/nba-clv-dashboard
+repo-health: CLI scoring repository quality across README, CI, licensing, and maintenance signals. Python CLI. https://github.com/ianalloway/repo-health
 
 OPEN SOURCE
 OpenClaw: Contributor to the OpenClaw AI agent framework, including bug fixes, skill-system improvements, and published agent skills on ClawHub. https://github.com/openclaw/openclaw
@@ -65,10 +57,13 @@ Alloway AI: Public writing on applied AI, model behavior, and evaluation-focused
 
 EDUCATION
 M.S. Artificial Intelligence, University of South Florida
-In Progress
+August 2026
 
 B.S. Information Science, University of South Florida
-Completed May 2026
+August 2024 - May 2026 | GPA 3.5, Magna Cum Laude
+
+Hillsborough Community College
+August 2022 - July 2024
 
 CERTIFICATIONS
 Deep Learning Specialization (Andrew Ng, Coursera)
