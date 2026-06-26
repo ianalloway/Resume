@@ -7,10 +7,11 @@ Hi [Name],
 
 I applied for the [Role Title] position and wanted to briefly introduce myself directly.
 
-I’m a machine learning and data-focused builder with experience shipping applied ML products, evaluation dashboards, analytics tooling, and decision-support systems. I completed my B.S. in Information Science at USF in May 2026 and am currently pursuing an M.S. in Artificial Intelligence at USF.
+I’m a machine learning and data-focused builder with experience shipping applied ML products, evaluation dashboards, analytics tooling, and decision-support systems. I completed my B.S. in Information Science at USF in May 2026, and my M.S. in Artificial Intelligence at USF starts in August 2026.
 
 A few examples of my public work are here:
 - Portfolio: https://ianalloway.xyz
+- Flagship AI/evals project: https://github.com/ianalloway/juryrig
 - GitHub: https://github.com/ianalloway
 - Resume: [attach PDF]
 
@@ -27,7 +28,7 @@ Hi [Name],
 
 I’m reaching out because I’m exploring ML Engineer, Data Scientist, and Applied AI roles, and your team looks especially aligned with the kind of work I’ve been building.
 
-My background is in applied ML, analytics tooling, and evaluation-first systems. I’ve built public projects across forecasting, dashboards, model evaluation, and decision-support tools, and I completed my B.S. in Information Science at USF in May 2026 and am currently pursuing an M.S. in AI at USF.
+My background is in applied ML, analytics tooling, and evaluation-first systems. I’ve built public projects across LLM-as-judge audits, forecasting, dashboards, model evaluation, and decision-support tools, and I completed my B.S. in Information Science at USF in May 2026. My M.S. in AI at USF starts in August 2026.
 
 If useful, I’d be happy to share my resume and a few relevant project links.
 
@@ -35,4 +36,4 @@ Best,
 Ian Alloway
 
 ## Short Cold Outreach
-Hi [Name] — I’m an ML/data candidate focused on applied ML, analytics tooling, and decision-support products. I recently applied for [Role], and I wanted to share my portfolio/GitHub in case it’s helpful: https://ianalloway.xyz | https://github.com/ianalloway. Happy to send over a resume or a few directly relevant projects.
+Hi [Name] — I’m an ML/data candidate focused on applied AI, evaluation tooling, analytics, and decision-support products. I recently applied for [Role], and I wanted to share my portfolio plus my flagship AI/evals project in case helpful: https://ianalloway.xyz | https://github.com/ianalloway/juryrig. Happy to send over a resume or a few directly relevant projects.
